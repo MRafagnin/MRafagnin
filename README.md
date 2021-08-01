@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MRafagnin
+- 👀 I’m interested in > Python and Trail Running
+- 🌱 I’m currently learning > Python
+- 💞️ I’m looking to collaborate on > anything Python
