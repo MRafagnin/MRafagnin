@@ -60,7 +60,7 @@ I’m open to collaborating on:
 
 ## 📫 Let’s Connect  
 - GitHub: https://github.com/MRafagnin  
-- LinkedIn: (add your link)  
+- LinkedIn: https://www.linkedin.com/in/matheus-rafagnin/
 - Email: mprafagn@pm.me  
 
 ---
