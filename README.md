@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Mat — aspiring AI Engineer.
-
-### 🤖 Python Engineer | LLM & RAG Systems | Automation at Scale
+# 🤖 Senior Python Engineer | LLM & RAG Systems | Automation at Scale
 
 I build **production-grade Python systems** that turn unstructured data into real-time intelligence — and I'm focused on bringing that same engineering rigor to **AI/LLM applications**.
 
